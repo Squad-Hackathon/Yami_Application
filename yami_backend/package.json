@@ -1,0 +1,18 @@
+{
+  "name": "yami_backend",
+  "version": "1.0.0",
+  "description": "this is the server side of the YAMI application",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Squad-Hackathon/Yami_Application.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}

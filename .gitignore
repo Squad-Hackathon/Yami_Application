@@ -1,0 +1,4 @@
+# .gitignore at the root of the repository
+
+/yami_frontend/node_modules
+/yami_backend/node_modules
